@@ -10,5 +10,6 @@ hahaa
  listen 40;
  # 共通のヘッダー設定
     proxy_set_header Host $host;
+hi
 
 
