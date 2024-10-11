@@ -8,6 +8,6 @@ hahaa
         proxy_pass http://v4_1_server;
     }
  listen 40;
-
+ # 共通のヘッダー設定
     proxy_set_header Host $host;
  # 共通のヘッダー設定
