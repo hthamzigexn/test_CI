@@ -3,7 +3,6 @@ end
 hi
 he
 hahaa
-
 helo
     # v4.1
     location ^~ /images/ {
