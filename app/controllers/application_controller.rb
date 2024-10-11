@@ -12,3 +12,5 @@ hahaa
     # 共通のヘッダー設定
     proxy_set_header Host $host;
  # 共通のヘッダー設定
+
+    # 共通のヘッダー設定
