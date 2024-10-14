@@ -10,5 +10,3 @@ hahaa
  listen 40;
  # 共通のヘッダー設定
 morning
-hi
-
